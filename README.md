@@ -19,7 +19,6 @@
 
 | Avatar                                                                            | Name                     | steamid                                                                     | is_friend   | BFD                 | removed_time        | Remark   |
 |:----------------------------------------------------------------------------------|:-------------------------|:----------------------------------------------------------------------------|:------------|:--------------------|:--------------------|:---------|
-| ![](https://avatars.steamstatic.com/5b39689a7b6864da9a547091717703f227af3611.jpg) | 光速下把                     | [76561198839716684](https://steamcommunity.com/profiles/76561198839716684/) | ❌           | 2024-08-30 08:01:32 | 2024-09-22 17:50:11 |          |
 | ![](https://avatars.steamstatic.com/3f151e60f71ef20dc97d07361eae7f2cfaa4580e.jpg) | 1                        | [76561198113932517](https://steamcommunity.com/profiles/76561198113932517/) | ✅           | 2021-09-17 13:14:30 |                     |          |
 | ![](https://avatars.steamstatic.com/09198925d802cd9e91a3871073b49ce246337b79.jpg) | GumSK                    | [76561198033164468](https://steamcommunity.com/profiles/76561198033164468/) | ✅           | 2020-10-07 15:41:10 |                     |          |
 | ![](https://avatars.steamstatic.com/34966e89066b62abe376472f73605b35d8bc1ec1.jpg) | 倉立刀                      | [76561198088554959](https://steamcommunity.com/profiles/76561198088554959/) | ✅           | 2022-07-09 12:54:02 |                     |          |
