@@ -9,7 +9,6 @@
 
 | Avatar                                                                            | Name                     | steamid                                                                     | is_friend   | BFD                 | removed_time        | Remark   |
 |:----------------------------------------------------------------------------------|:-------------------------|:----------------------------------------------------------------------------|:------------|:--------------------|:--------------------|:---------|
-| ![](https://avatars.steamstatic.com/f097e084eb25152d2fa0b593c9dca9bd060d125f.jpg) | 九不搭八                     | [76561198399857581](https://steamcommunity.com/profiles/76561198399857581/) | ❌           | 2019-06-16 06:33:56 | 2024-10-08 08:35:33 |          |
 | ![](https://avatars.steamstatic.com/23b7be7f9fb9fa555786d34c29bab7f24fc11b0f.jpg) | 折樱                       | [76561198806985283](https://steamcommunity.com/profiles/76561198806985283/) | ✅           | 2021-05-02 11:28:21 |                     |          |
 | ![](https://avatars.steamstatic.com/2534b0640ae0c1c9653f5e7848eafa3b30c0d3ba.jpg) | H.H.HØKS_N               | [76561198983551325](https://steamcommunity.com/profiles/76561198983551325/) | ✅           | 2020-04-15 10:45:35 |                     |          |
 | ![](https://avatars.steamstatic.com/11d68969f6e4d42c640eec63b895f2c0474e59c8.jpg) | sakura233                | [76561198842506076](https://steamcommunity.com/profiles/76561198842506076/) | ✅           | 2021-01-03 03:13:43 |                     |          |
