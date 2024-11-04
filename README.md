@@ -9,7 +9,6 @@
 
 | Avatar                                                                            | Name                     | steamid                                                                     | is_friend   | BFD                 | removed_time        | Remark   |
 |:----------------------------------------------------------------------------------|:-------------------------|:----------------------------------------------------------------------------|:------------|:--------------------|:--------------------|:---------|
-| ![](https://avatars.steamstatic.com/736f50560fa784526a2d48cf69269dcdea6c4022.jpg) | cnhhbfx                  | [76561198113636947](https://steamcommunity.com/profiles/76561198113636947/) | ❌           | 2023-02-05 13:33:33 | 2024-11-04 18:03:22 |          |
 | ![](https://avatars.steamstatic.com/07b634fc6d356f84694d5724bd53f01313facad7.jpg) | Ast1n7                   | [76561198420361206](https://steamcommunity.com/profiles/76561198420361206/) | ✅           | 2019-07-07 00:27:57 |                     |          |
 | ![](https://avatars.steamstatic.com/c9f0283f9b0050b0c3e9b5c73e085971b03cc972.jpg) | Yumon                    | [76561198801336013](https://steamcommunity.com/profiles/76561198801336013/) | ✅           | 2020-05-23 05:33:58 |                     |          |
 | ![](https://avatars.steamstatic.com/e2754b8e0656caef2da349f2006609b51a6ab9ea.jpg) | ピクシー                     | [76561198427777720](https://steamcommunity.com/profiles/76561198427777720/) | ✅           | 2020-05-01 02:39:19 |                     |          |
