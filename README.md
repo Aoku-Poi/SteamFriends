@@ -9,7 +9,6 @@
 
 | Avatar                                                                            | Name                     | steamid                                                                     | is_friend   | BFD                 | removed_time        | Remark   |
 |:----------------------------------------------------------------------------------|:-------------------------|:----------------------------------------------------------------------------|:------------|:--------------------|:--------------------|:---------|
-| ![](https://avatars.steamstatic.com/ff6a731f89e4af471db71eb4ef5a8d0d1135619e.jpg) | 汪酱不是幸运e                  | [76561198844411726](https://steamcommunity.com/profiles/76561198844411726/) | ❌           | 2019-04-10 09:05:04 | 2024-11-24 08:42:03 |          |
 | ![](https://avatars.steamstatic.com/07b634fc6d356f84694d5724bd53f01313facad7.jpg) | Ast1n7                   | [76561198420361206](https://steamcommunity.com/profiles/76561198420361206/) | ✅           | 2019-07-07 00:27:57 |                     |          |
 | ![](https://avatars.steamstatic.com/77d43657b9cb912737e5e33fd7df1c0b32f8dfa1.jpg) | 千禧年游戏开发部@小桃              | [76561198825106091](https://steamcommunity.com/profiles/76561198825106091/) | ✅           | 2020-03-26 08:08:38 |                     |          |
 | ![](https://avatars.steamstatic.com/bd9bc892ec7fe9e8067e96d7075c41d4ae68dc4e.jpg) | LemonDu                  | [76561198433172090](https://steamcommunity.com/profiles/76561198433172090/) | ✅           | 2020-05-04 01:40:42 |                     |          |
