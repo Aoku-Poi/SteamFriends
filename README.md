@@ -9,7 +9,6 @@
 
 | Avatar                                                                            | Name                     | steamid                                                                     | is_friend   | BFD                 | removed_time        | Remark   |
 |:----------------------------------------------------------------------------------|:-------------------------|:----------------------------------------------------------------------------|:------------|:--------------------|:--------------------|:---------|
-| ![](https://avatars.steamstatic.com/a627d3c0e9fe310d6ce9538c3594376522acbb00.jpg) | TERROS                   | [76561198364705162](https://steamcommunity.com/profiles/76561198364705162/) | ❌           | 2024-10-18 09:19:27 | 2024-11-25 16:40:02 |          |
 | ![](https://avatars.steamstatic.com/07b634fc6d356f84694d5724bd53f01313facad7.jpg) | Ast1n7                   | [76561198420361206](https://steamcommunity.com/profiles/76561198420361206/) | ✅           | 2019-07-07 00:27:57 |                     |          |
 | ![](https://avatars.steamstatic.com/e329c34eabf74d6c78c2092643a7cf4c382b5fe0.jpg) | 千景Ⅱ                      | [76561198429699944](https://steamcommunity.com/profiles/76561198429699944/) | ✅           | 2019-06-14 02:16:29 |                     |          |
 | ![](https://avatars.steamstatic.com/bd9bc892ec7fe9e8067e96d7075c41d4ae68dc4e.jpg) | LemonDu                  | [76561198433172090](https://steamcommunity.com/profiles/76561198433172090/) | ✅           | 2020-05-04 01:40:42 |                     |          |
