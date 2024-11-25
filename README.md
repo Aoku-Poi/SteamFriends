@@ -9,7 +9,6 @@
 
 | Avatar                                                                            | Name                     | steamid                                                                     | is_friend   | BFD                 | removed_time        | Remark   |
 |:----------------------------------------------------------------------------------|:-------------------------|:----------------------------------------------------------------------------|:------------|:--------------------|:--------------------|:---------|
-| ![](https://avatars.steamstatic.com/5cac151b5f88e398c04e698055274fe7971e50f6.jpg) | Yumé                     | [76561199012381143](https://steamcommunity.com/profiles/76561199012381143/) | ❌           | 2020-12-16 13:46:04 | 2024-11-25 08:39:17 |          |
 | ![](https://avatars.steamstatic.com/07b634fc6d356f84694d5724bd53f01313facad7.jpg) | Ast1n7                   | [76561198420361206](https://steamcommunity.com/profiles/76561198420361206/) | ✅           | 2019-07-07 00:27:57 |                     |          |
 | ![](https://avatars.steamstatic.com/01247072bfb42b735b3a6634545d676842ff1f28.jpg) | 团子大家族                    | [76561198097173211](https://steamcommunity.com/profiles/76561198097173211/) | ✅           | 2022-04-30 06:18:31 |                     |          |
 | ![](https://avatars.steamstatic.com/f5984dabceccc055fb79ecde89818417a255d77c.jpg) | ✪ Sh1gure                | [76561198150467988](https://steamcommunity.com/profiles/76561198150467988/) | ✅           | 2019-07-07 08:59:33 |                     |          |
