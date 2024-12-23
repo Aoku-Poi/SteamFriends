@@ -9,7 +9,6 @@
 
 | Avatar                                                                            | Name                     | steamid                                                                     | is_friend   | BFD                 | removed_time        | Remark   |
 |:----------------------------------------------------------------------------------|:-------------------------|:----------------------------------------------------------------------------|:------------|:--------------------|:--------------------|:---------|
-| ![](https://avatars.steamstatic.com/e65d0a06d996bcd7ed9d730c2afcf3bc835803e0.jpg) | Ed1s0n                   | [76561198403224494](https://steamcommunity.com/profiles/76561198403224494/) | ❌           | 2020-05-10 13:48:17 | 2024-11-29 08:38:56 |          |
 | ![](https://avatars.steamstatic.com/790751c67b3b86eb81ed607b1f5adc04ed2755ed.jpg) | 綿奏                       | [76561198834374849](https://steamcommunity.com/profiles/76561198834374849/) | ✅           | 2020-08-29 05:54:31 |                     |          |
 | ![](https://avatars.steamstatic.com/926dda5abf48ec4e0138712ed367e479df0e6ed4.jpg) | 柴柴是个小宝贝                  | [76561198445475875](https://steamcommunity.com/profiles/76561198445475875/) | ✅           | 2024-08-27 09:14:23 |                     |          |
 | ![](https://avatars.steamstatic.com/994f79743ea22adc33c9586d7550e40f602b0c49.jpg) | ParkInYoung              | [76561198366395630](https://steamcommunity.com/profiles/76561198366395630/) | ✅           | 2021-07-14 05:00:23 |                     |          |
