@@ -9,7 +9,6 @@
 
 | Avatar                                                                            | Name                     | steamid                                                                     | is_friend   | BFD                 | removed_time        | Remark   |
 |:----------------------------------------------------------------------------------|:-------------------------|:----------------------------------------------------------------------------|:------------|:--------------------|:--------------------|:---------|
-| ![](https://avatars.steamstatic.com/293f9f6dae2bafe7bd8467e12347a87ef29b2404.jpg) | TEAM31X LIYINGXIA        | [76561199215534258](https://steamcommunity.com/profiles/76561199215534258/) | ❌           | 2024-07-15 21:39:03 | 2024-12-30 08:38:03 |          |
 | ![](https://avatars.steamstatic.com/d23daa2ad11dad5f27180c5e6e3d39594c24b33c.jpg) | Bei Tang                 | [76561198089918902](https://steamcommunity.com/profiles/76561198089918902/) | ✅           | 2019-07-08 04:20:28 |                     |          |
 | ![](https://avatars.steamstatic.com/bce9ff1dc82cbf4c696cb6f697eca6883d52404e.jpg) | 虚怀若谷™                    | [76561198447439212](https://steamcommunity.com/profiles/76561198447439212/) | ✅           | 2019-09-23 01:39:35 |                     |          |
 | ![](https://avatars.steamstatic.com/d1f508df3ce015705e681e61a5abc33665f7f26f.jpg) | BBR                      | [76561198827514456](https://steamcommunity.com/profiles/76561198827514456/) | ✅           | 2020-11-29 04:58:04 |                     |          |
