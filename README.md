@@ -9,7 +9,6 @@
 
 | Avatar                                                                            | Name                     | steamid                                                                     | is_friend   | BFD                 | removed_time        | Remark   |
 |:----------------------------------------------------------------------------------|:-------------------------|:----------------------------------------------------------------------------|:------------|:--------------------|:--------------------|:---------|
-| ![](https://avatars.steamstatic.com/ff2c8c92a598980613a311aca94ba75f1ceba593.jpg) | 反重糕手王小兆                  | [76561199032151136](https://steamcommunity.com/profiles/76561199032151136/) | ❌           | 2023-10-28 04:13:03 | 2025-01-23 16:04:24 |          |
 | ![](https://avatars.steamstatic.com/d23daa2ad11dad5f27180c5e6e3d39594c24b33c.jpg) | Bei Tang                 | [76561198089918902](https://steamcommunity.com/profiles/76561198089918902/) | ✅           | 2019-07-08 04:20:28 |                     |          |
 | ![](https://avatars.steamstatic.com/0f64aba463c145abeb922f628fbff153257dccaa.jpg) | Nathan                   | [76561198418894092](https://steamcommunity.com/profiles/76561198418894092/) | ✅           | 2020-05-01 07:13:25 |                     |          |
 | ![](https://avatars.steamstatic.com/bd9bc892ec7fe9e8067e96d7075c41d4ae68dc4e.jpg) | LemonDu                  | [76561198433172090](https://steamcommunity.com/profiles/76561198433172090/) | ✅           | 2020-05-04 01:40:42 |                     |          |
