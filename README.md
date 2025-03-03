@@ -9,7 +9,6 @@
 
 | Avatar                                                                            | Name                     | steamid                                                                     | is_friend   | BFD                 | removed_time        | Remark   |
 |:----------------------------------------------------------------------------------|:-------------------------|:----------------------------------------------------------------------------|:------------|:--------------------|:--------------------|:---------|
-| ![](https://avatars.steamstatic.com/c65bfd4db081d06b1fe3b9fe17849b7d3a6166d4.jpg) | lnz                      | [76561199341185688](https://steamcommunity.com/profiles/76561199341185688/) | ❌           | 2024-02-06 00:29:51 | 2025-03-03 23:34:03 |          |
 | ![](https://avatars.steamstatic.com/994f79743ea22adc33c9586d7550e40f602b0c49.jpg) | ParkInYoung              | [76561198366395630](https://steamcommunity.com/profiles/76561198366395630/) | ✅           | 2021-07-14 05:00:23 |                     |          |
 | ![](https://avatars.steamstatic.com/cc6779e7a0d69c3d99ed5d9ab33f147e928bb707.jpg) | 茶泡饭                      | [76561198372468789](https://steamcommunity.com/profiles/76561198372468789/) | ✅           | 2020-02-19 06:48:42 |                     |          |
 | ![](https://avatars.steamstatic.com/2b151a5198cd70c696f48821c4cced33fad0f61e.jpg) | Euphoria                 | [76561198811594584](https://steamcommunity.com/profiles/76561198811594584/) | ✅           | 2022-05-15 07:33:40 |                     |          |
