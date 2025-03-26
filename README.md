@@ -9,7 +9,6 @@
 
 | Avatar                                                                            | Name                     | steamid                                                                     | is_friend   | BFD                 | removed_time        | Remark   |
 |:----------------------------------------------------------------------------------|:-------------------------|:----------------------------------------------------------------------------|:------------|:--------------------|:--------------------|:---------|
-| ![](https://avatars.steamstatic.com/2adc60ce5adafee9d3b4080c31db484d3c128859.jpg) | 小町鸠                      | [76561198420545003](https://steamcommunity.com/profiles/76561198420545003/) | ❌           | 2020-04-09 02:01:48 | 2025-03-26 08:38:52 |          |
 | ![](https://avatars.steamstatic.com/b61547f8c89ce133e28d6e70f1aa3dbf2582b1dc.jpg) | ClayMorE                 | [76561198278525089](https://steamcommunity.com/profiles/76561198278525089/) | ✅           | 2020-11-30 15:59:23 |                     |          |
 | ![](https://avatars.steamstatic.com/e12cd9ee8c59faed6fd0b5030ae2ef1288d6df60.jpg) | 9.7                      | [76561199223611558](https://steamcommunity.com/profiles/76561199223611558/) | ✅           | 2024-01-15 07:33:17 |                     |          |
 | ![](https://avatars.steamstatic.com/64455b3f80e6419b182bf68c483de214f5f56d75.jpg) | Riko_nya                 | [76561198369604830](https://steamcommunity.com/profiles/76561198369604830/) | ✅           | 2021-01-02 00:41:41 |                     |          |
