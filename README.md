@@ -9,7 +9,6 @@
 
 | Avatar                                                                            | Name                     | steamid                                                                     | is_friend   | BFD                 | removed_time        | Remark   |
 |:----------------------------------------------------------------------------------|:-------------------------|:----------------------------------------------------------------------------|:------------|:--------------------|:--------------------|:---------|
-| ![](https://avatars.steamstatic.com/d60450464fb6aa878f0fdc29ded7e3b924532462.jpg) | Nokun                    | [76561198285182180](https://steamcommunity.com/profiles/76561198285182180/) | ❌           | 2020-10-08 01:09:47 | 2025-04-19 17:00:40 |          |
 | ![](https://avatars.steamstatic.com/21bd5cf3023d404ed8c01a9e09327c6db954cbd3.jpg) | 霜月はるか                    | [76561198356032077](https://steamcommunity.com/profiles/76561198356032077/) | ✅           | 2021-06-24 02:12:18 |                     |          |
 | ![](https://avatars.steamstatic.com/aee8026f9a5b39e2bbcd23e356a80c072830ca55.jpg) | 青璃                       | [76561198216913133](https://steamcommunity.com/profiles/76561198216913133/) | ✅           | 2020-07-14 11:59:38 |                     |          |
 | ![](https://avatars.steamstatic.com/11d68969f6e4d42c640eec63b895f2c0474e59c8.jpg) | sakura233                | [76561198842506076](https://steamcommunity.com/profiles/76561198842506076/) | ✅           | 2021-01-03 03:13:43 |                     |          |
