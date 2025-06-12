@@ -9,7 +9,6 @@
 
 | Avatar                                                                            | Name                     | steamid                                                                     | is_friend   | BFD                 | removed_time        | Remark   |
 |:----------------------------------------------------------------------------------|:-------------------------|:----------------------------------------------------------------------------|:------------|:--------------------|:--------------------|:---------|
-| ![](https://avatars.steamstatic.com/6889e542266ff1eca9c32d7f405a723a0e19f756.jpg) | 小啊小什么                    | [76561198353721890](https://steamcommunity.com/profiles/76561198353721890/) | ❌           | 2019-06-10 07:06:10 | 2025-06-12 08:42:51 |          |
 | ![](https://avatars.steamstatic.com/21bd5cf3023d404ed8c01a9e09327c6db954cbd3.jpg) | 霜月はるか                    | [76561198356032077](https://steamcommunity.com/profiles/76561198356032077/) | ✅           | 2021-06-24 02:12:18 |                     |          |
 | ![](https://avatars.steamstatic.com/9ff15b498ffd429bd3ee85d902ad832b48dc5086.jpg) | 毒舌jeff                   | [76561198216417744](https://steamcommunity.com/profiles/76561198216417744/) | ✅           | 2020-04-24 04:04:39 |                     |          |
 | ![](https://avatars.steamstatic.com/a8c5d92192f114f5ed05a03a86e53facc7d22a27.jpg) | YOU DIED                 | [76561198195811997](https://steamcommunity.com/profiles/76561198195811997/) | ✅           | 2019-06-26 11:28:27 |                     |          |
