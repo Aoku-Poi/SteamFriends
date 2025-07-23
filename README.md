@@ -9,7 +9,6 @@
 
 | Avatar                                                                            | Name                     | steamid                                                                     | is_friend   | BFD                 | removed_time        | Remark   |
 |:----------------------------------------------------------------------------------|:-------------------------|:----------------------------------------------------------------------------|:------------|:--------------------|:--------------------|:---------|
-| ![](https://avatars.steamstatic.com/7fd467d10b14d17b52909d11695fcaba8f6fd65e.jpg) | PapriKa                  | [76561198321351662](https://steamcommunity.com/profiles/76561198321351662/) | ❌           | 2020-08-28 01:30:44 | 2025-07-23 20:11:27 |          |
 | ![](https://avatars.steamstatic.com/642590f8ba71b5547a7e229ac448ac3e9ca3f097.jpg) | Litostroublegirl         | [76561198442960833](https://steamcommunity.com/profiles/76561198442960833/) | ❌           | 2020-06-20 07:18:59 | 2025-07-13 08:51:26 |          |
 | ![](https://avatars.steamstatic.com/6889e542266ff1eca9c32d7f405a723a0e19f756.jpg) | 鱼鱼蒸                      | [76561199179028750](https://steamcommunity.com/profiles/76561199179028750/) | ✅           | 2022-03-21 12:23:48 |                     |          |
 | ![](https://avatars.steamstatic.com/019260825a8246f4d9d525a6ad3cb7506a3ce267.jpg) | xcsjiana                 | [76561198816176815](https://steamcommunity.com/profiles/76561198816176815/) | ✅           | 2023-07-03 08:19:52 |                     |          |
